@@ -8,5 +8,5 @@
 <h1>MAIL_HOST=</h1>
 <h1>MAIL_USER=</h1>
 <h1>MAIL_PASS=</h1>
-
+node install node_modules [npm install]
 </div>
